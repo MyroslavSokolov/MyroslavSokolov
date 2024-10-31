@@ -2,8 +2,6 @@
 
 Full-stack developer **7+ years** experience
 
-[+49 (1511) 002-8351](tel:+4915110028351)
-
 GMT+1
 
 - [Email](mailto:myroslavsokolov@gmail.com)
