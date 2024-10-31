@@ -6,9 +6,9 @@ Full-stack developer **7+ years** experience
 
 GMT+1
 
-[myroslavsokolov@gmail.com](mailto:myroslavsokolov@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/myroslav-sokolov/) 
-[Github](https://github.com/MyroslavSokolov)
+- [Email](mailto:myroslavsokolov@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/myroslav-sokolov/)
+- [GitHub](https://github.com/MyroslavSokolov)
 
 ## ABOUT
 
@@ -20,9 +20,7 @@ Developed responsive cross-platform apps using Flutter, PWA, and Electron. Exper
 
 **_Main:_** React, Redux, RxJS, React Hooks, React-Query, Graphql, Node.js, Nest.js, Express, Next.js, .Net, ORM, SQL/NoSQL, WebSocket, Kafka, Microservices, TypeScript, JavaScript, SCSS/LESS, Material Design, Bootstrap, Jest, RestAPI, Docker, Webpack, Git, Linux
 
-**_Other:_** Angular 2+, Angular Material, Flutter, Spring Java, Feature-Sliced Design
-
-HTML/CSS, JavaScript, ES6, jQuery, C#, Python, Docker Compose, Design Patterns, Firebase, MongoDB, Jira, Figma, Apple, Google, PostgreSQL, MySQL, MSSQL, ChatGPT, OpenAI, GitLab CI/CD, Swagger, Jenkins, Ubuntu, Agile, Scrum, React-Native, Redux-Toolkit, Hibernate, Entity Framework, SDLC, DDD, AWS, RabbitMQ, OpenAI
+**_Other:_** Angular 2+, Angular Material, Flutter, Spring Java, Feature-Sliced Design, HTML/CSS, JavaScript, ES6, jQuery, C#, Python, Docker Compose, Design Patterns, Firebase, MongoDB, Jira, Figma, Apple, Google, PostgreSQL, MySQL, MSSQL, ChatGPT, OpenAI, GitLab CI/CD, Swagger, Jenkins, Ubuntu, Agile, Scrum, React-Native, Redux-Toolkit, Hibernate, Entity Framework, SDLC, DDD, AWS, RabbitMQ, OpenAI
 
 ## EXPERIENCE
 
