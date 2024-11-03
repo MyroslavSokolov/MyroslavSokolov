@@ -24,9 +24,10 @@ Developed responsive cross-platform apps using Flutter, PWA, and Electron. Exper
 
 [SCRIMMAGE REWARDS](https://scrimmage.co/): 11/2022 – 08/2024, 1.9 YEARS
 
-- Redesigned the admin panel UI/UX, reducing customer support tickets by **86%**.
-- Developed a gamified web widget for a loyalty program with flexible customization and quick integration, resulting in a **30%** increase in conversion rates for three clients.
-- Created a mini-game widget for client integration that displays their ads, leading to an **11%** increase in average user session duration and higher ad revenue.
+- Increased unit tests from **3,566** to **3,914** and wrote over **100** UI tests, reducing customer-reported bugs by **7%** and achieving **93%** test coverage.
+- Normalized the database, added indexes, archived old data, optimized raw and ORM queries, and improved transaction efficiency for a microservice. Implemented backend caching, reducing page load time from **33.5 seconds** to **4.1 seconds**.
+- Transformed **3** Angular 2+, **2** AngularJS, and **5** Razor Page micro-frontends into React apps, lowering development costs and accelerating new feature delivery by **~2.5** months.
+- Transitioned **11** microservices from .NET Framework 4.7 to .NET 5.0, enabling Linux container use and reducing infrastructure maintenance costs by approximately **8.1%**. This transition improved high-load performance, reducing latency from **200ms** to **140ms**.
 
 **_Technologies_:** React, Redux, RxJs, Next.js, Kafka, Redis, Docker, Graphql, SASS/LESS, Webpack
 
@@ -39,17 +40,16 @@ Developed responsive cross-platform apps using Flutter, PWA, and Electron. Exper
 
 **_Technologies_:** React, Redux, Angular, .Net Core, .NET Entity Framework, RabbitMQ, MS SQL, Jest
 
-[JOYN CHAT](https://play.google.com/store/apps/details?id=app.joyn.app&hl=gsw): 07/2019 - 10/2020, 1.3 YEAR
+[SOFTWARE PLANET](https://softwareplanetgroup.co.uk/) GROUP: 07/2017 - 10/2020, 3.3 YEARS
 
 - Developed an algorithm for recommending friends based on shared interests, increasing friend connections by **72%**.
 - Expanded a Flutter chat application from iOS and macOS to support Android, Web, Linux, and Windows, and published it on the Play Store, resulting in a **160%** increase in the user base.
 - Migrated the database from PostgreSQL to Cassandra, leading to a **41%** increase in message loading speed.
+- Developed a Chrome extension with a web scraping spider, saving our SEO and BA teams up to **3 hours** daily on routine tasks.
 
-**_Technologies_:** Flutter, Rxdart, React, Redux, socket.io, Docker, Material Design
+**Another projects:** [JOYN CHAT](https://play.google.com/store/apps/details?id=app.joyn.app&hl=gsw), [METRICFIRE](https://www.metricfire.com/), [OKO DIGITAL](https://oko.uk/)
 
-[METRICFIRE](https://www.metricfire.com/): 05/2018 - 07/2019, 1.2 YEAR
-
-[OKO DIGITAL](https://oko.uk/): 10/2017 - 05/2018, 1.2 YEAR
+**_Technologies_:** React, Redux, Nest.js, socket.io, Docker, .Net Core, Entity Framework, Typescript, Kafka, Material Design, Flutter, Rxdart, Angular, Java, Spring Boot, Hibernate, Python, Vue.js
 
 # EDUCATION
 
