@@ -1,6 +1,6 @@
 [MYROSLAV SOKOLOV](https://www.linkedin.com/in/myroslav-sokolov/)
 
-Full-stack developer **7+ years** experience
+Senior Backend Engineer **8+ years** experience
 
 GMT+1
 
@@ -10,53 +10,75 @@ GMT+1
 
 ## ABOUT
 
-Full-stack developer with **7 years** of commercial experience in multinational teams ranging from 2 to 30 members, both remote and on-site. Worked independently with the product owner, gathering business requirements, proposing optimization improvements, implementing solutions from scratch, and releasing them to production with high test coverage, CI/CD, and detailed analytics. Specializes in React and its ecosystem, Nest.js, other Node.js-based backends, .NET, and SQL databases.
+Senior Backend Engineer with **8+ years** of experience building and operating high-load distributed systems. Delivered features end-to-end from requirements clarification to production release in Agile/Scrum teams of different sizes, both remote and on-site. Ensured high test coverage, analytics, and CI/CD automation.
 
-Developed responsive cross-platform apps using Flutter, PWA, and Electron. Experienced in delivering microservices and micro-frontends that meet the strict requirements of the tax industry, including decomposing monoliths into microservices. Passionate about AI/ML features and stay up to date with these topics. Enthusiastic about writing [tech articles](https://myrostech.blogspot.com/) and conducting research to deepen expertise.
+Contributed to scalable backend architecture, led monolith decomposition and service consolidation, improved backend performance under high load, and optimized databases to maintain stability as systems scaled.
+
+Also experienced in frontend development and .NET-based systems. Stay up to date with advancements in AI/ML and modern backend technologies. Enthusiastic about writing [tech articles](https://myrostech.blogspot.com/).
 
 ## SKILLS
 
-**_Main:_** React, Redux, RxJS, React Hooks, React-Query, Graphql, Node.js, Nest.js, Express, Next.js, .Net, ORM, SQL/NoSQL, WebSocket, Kafka, Microservices, TypeScript, JavaScript, SCSS/LESS, Material Design, Bootstrap, Jest, RestAPI, Docker, Webpack, Git, Linux
+**_Main:_**  
+Node.js, TypeScript, JavaScript, NestJS, Fastify, Express.js, PostgreSQL, Redis, MongoDB, Kafka, RabbitMQ, Docker, Kubernetes, AWS (EC2, S3, RDS, Lambda), Microservices, Event-Driven Architecture, Distributed Systems, REST, GraphQL, gRPC, API Design, System Design, Prisma, TypeORM, CI/CD, Linux, Nginx
 
-**_Other:_** Angular 2+, Angular Material, Flutter, Spring Java, Feature-Sliced Design, HTML/CSS, JavaScript, ES6, jQuery, C#, Python, Docker Compose, Design Patterns, Firebase, MongoDB, Jira, Figma, Apple, Google, PostgreSQL, MySQL, MSSQL, ChatGPT, OpenAI, GitLab CI/CD, Swagger, Jenkins, Ubuntu, Agile, Scrum, React-Native, Redux-Toolkit, Hibernate, Entity Framework, SDLC, DDD, AWS, RabbitMQ, OpenAI
+**_Other:_**  
+React, Redux, React Hooks, React Query, Next.js, WebSocket, Prometheus, Grafana, Datadog, Swagger (OpenAPI), JWT, OAuth2, .NET, C#, Git
 
 ## EXPERIENCE
 
-[SCRIMMAGE REWARDS](https://scrimmage.co/): 11/2022 – 08/2024, 1.9 YEARS
+[SCRIMMAGE REWARDS](https://scrimmage.co/): 11/2022 – Present, **3+ years**
 
-- Increased unit tests from **3,566** to **3,914** and wrote over **100** UI tests, reducing customer-reported bugs by **7%** and achieving **93%** test coverage.
-- Normalized the database, added indexes, archived old data, optimized raw and ORM queries, and improved transaction efficiency for a microservice. Implemented backend caching, reducing page load time from **33.5 seconds** to **4.1 seconds**.
-- Transformed **3** Angular 2+, **2** AngularJS, and **5** Razor Page micro-frontends into React apps, lowering development costs and accelerating new feature delivery by **~2.5** months.
-- Transitioned **11** microservices from .NET Framework 4.7 to .NET 5.0, enabling Linux container use and reducing infrastructure maintenance costs by approximately **8.1%**. This transition improved high-load performance, reducing latency from **200ms** to **140ms**.
+**Core Product (Gaming Platform)**
 
-**_Technologies_:** React, Redux, RxJs, Next.js, Kafka, Redis, Docker, Graphql, SASS/LESS, Webpack
+- Extracted transaction processing for in-game currency from the monolith into a dedicated microservice, reducing load on the core system by **34.7%** and enabling independent horizontal scaling.
+- Designed and implemented a customizable gamified loyalty widget backend, enabling rapid partner integrations and increasing conversion rates by **29.4%** across **3** client integrations.
+- Developed backend services for partner-integrated mini-games, increasing average user session duration by **11.8%** and contributing to higher advertising revenue through improved ad engagement.
+- Built scalable partner integration APIs enabling secure onboarding of **5k+** external users and supporting high-volume third-party integrations.
 
-[SOVOS](https://sovos.com/): 10/2020 - 11/2022, 2.1 YEAR
+**Partner Integrations & Platform Engineering**
 
-- Increased unit tests from **3,566** to **3,914** and wrote over **100** UI tests, reducing customer-reported bugs by **7%** and achieving **93%** test coverage.
-- Normalized the database, added indexes, archived old data, optimized raw and ORM queries, and improved transaction efficiency for a microservice. Implemented backend caching, reducing page load time from **33.5 seconds** to **4.1 seconds**.
-- Transformed **3** Angular 2+, **2** AngularJS, and **5** Razor Page micro-frontends into React apps, lowering development costs and accelerating new feature delivery by **~2.5** months.
-- Transitioned **11** microservices from .NET Framework 4.7 to .NET 5.0, enabling Linux container use and reducing infrastructure maintenance costs by approximately **8.1%**. This transition improved high-load performance, reducing latency from **200ms** to **140ms**.
+- Consolidated multiple AWS Lambda services into a unified containerized runtime, simplifying deployment workflows and reducing infrastructure costs by **9.6%**.
+- Refactored high-frequency Lambda handlers into shared backend modules, reducing redundant invocations by **~27%** and improving execution efficiency under peak production load.
+- Introduced centralized observability (metrics, logging, background job tracking) across distributed services, reducing mean time to detect incidents by **~21%**.
 
-**_Technologies_:** React, Redux, Angular, .Net Core, .NET Entity Framework, RabbitMQ, MS SQL, Jest
+**_Technologies_:** Node.js (Fastify, NestJS), TypeScript, AWS (Lambda, EC2), Redis, Kafka, PostgreSQL, Docker, React, Redux, RxJs, Next.js, GraphQL, SASS/LESS, Webpack
 
-[SOFTWARE PLANET](https://softwareplanetgroup.co.uk/) GROUP: 07/2017 - 10/2020, 3.3 YEARS
+---
 
-- Developed an algorithm for recommending friends based on shared interests, increasing friend connections by **72%**.
-- Expanded a Flutter chat application from iOS and macOS to support Android, Web, Linux, and Windows, and published it on the Play Store, resulting in a **160%** increase in the user base.
-- Migrated the database from PostgreSQL to Cassandra, leading to a **41%** increase in message loading speed.
-- Developed a Chrome extension with a web scraping spider, saving our SEO and BA teams up to **3 hours** daily on routine tasks.
+[SOVOS](https://sovos.com/): 10/2020 - 11/2022, **2.2 years**
 
-**Another projects:** [JOYN CHAT](https://play.google.com/store/apps/details?id=app.joyn.app&hl=gsw), [METRICFIRE](https://www.metricfire.com/), [OKO DIGITAL](https://oko.uk/)
+- Optimized database performance for a high-load microservice by redesigning schema, introducing strategic indexing, optimizing raw and ORM queries, and implementing Redis-based caching, reducing response time from **33s** to **25s** and improving transaction throughput.
+- Developed internal admin tooling that eliminated direct SQL access to production databases and reduced recurring developer support workload by **~5** requests per week.
+- Increased automated test coverage to **93%**, reducing customer-reported bugs by **7%** and improving production stability.
+- Modernized **11** Node.js microservices by containerizing and migrating from Windows to Linux, improving deployment stability and reducing infrastructure costs by **15%**.
 
-**_Technologies_:** React, Redux, Nest.js, socket.io, Docker, .Net Core, Entity Framework, Typescript, Kafka, Material Design, Flutter, Rxdart, Angular, Java, Spring Boot, Hibernate, Python, Vue.js
+**_Technologies_:** Node.js (NestJS, Express), .NET (.NET Core, Entity Framework), TypeScript, PostgreSQL, MS SQL, Redis, RabbitMQ, Docker, React, Redux, Jest
 
-# EDUCATION
+---
 
-CHERKASY STATE TECHNOLOGICAL UNIVERSITY — BACHELOR, 2017 - 2021
+[EPAM SYSTEMS](https://www.epam.com/): 07/2017 - 10/2020, **3.4 years**
+
+- Developed backend services for a real-time messaging platform using WebSocket and event-driven architecture, supporting scalable real-time message delivery.
+- Migrated message storage from PostgreSQL to Cassandra, improving read/write performance for chat history and reducing message load times by **~40%**.
+- Designed and implemented a recommendation algorithm based on shared user interests, increasing friend connections by **63.7%**.
+- Automated recurring data collection via a custom scraping pipeline, saving **~2** hours of manual work daily.
+
+**_Technologies_:** Node.js (NestJS, Express), TypeScript, Java (Spring Boot, Hibernate), .NET Core (Entity Framework), Python, PostgreSQL, Cassandra, MS SQL, Redis, Kafka, RabbitMQ, Socket.io (WebSocket), Docker, Event-driven architecture, React, Redux, Vue.js, Angular, Flutter (RxDart), Material Design
+
+---
+
+[SOFTWARE PLANET GROUP](https://softwareplanetgroup.co.uk/): 06/2016 - 06/2017, **1.1 years**
+
+- Developed a set of responsive, reusable UI components in React, standardizing the frontend codebase and cutting development time for new features by **30%**.
+- Implemented server-side caching using Redis in a Node.js/Nest.js backend, reducing API response times by **40%** and significantly improving user experience during peak traffic.
+- Built a React-based admin dashboard with dynamic data visualization, simplifying complex analytics for business stakeholders and reducing the time spent on report generation by **35%**.
+
+## EDUCATION
+
+CHERKASY STATE TECHNOLOGICAL UNIVERSITY — BACHELOR, **2017 - 2021**
 
 Information and computer science
 
-CHERKASY STATE TECHNOLOGICAL UNIVERSITY — MASTER, 2021 - 2023
+CHERKASY STATE TECHNOLOGICAL UNIVERSITY — MASTER, **2021 - 2023**
 
 Technical project coordination and execution
